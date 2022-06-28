@@ -1,2 +1,7 @@
 *.slxc
 slprj/
+*.png
+*.jpg
+*.psd
+*.svg
+*.fig
